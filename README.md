@@ -1,7 +1,4 @@
 ## Passive DNS for Scapy
-![AppVeyor](https://img.shields.io/appveyor/ci/:user/:repo.svg)
-![Chocolatey](https://img.shields.io/chocolatey/dt/scriptcs.svg) 
-![GitHub followers](https://img.shields.io/github/followers/espadrine.svg?label=Follow&style=social)
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Django.svg)
 
 Monitors network for malicious activities domain
